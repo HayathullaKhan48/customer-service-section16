@@ -8,6 +8,7 @@ public class CustomerServiceSection16Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CustomerServiceSection16Application.class, args);
+		System.out.println("Customer Service Section 16 Application is Successfully executing");
 	}
 
 }
